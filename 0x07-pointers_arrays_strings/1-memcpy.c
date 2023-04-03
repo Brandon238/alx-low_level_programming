@@ -2,8 +2,8 @@
 
 /**
  * _memcpy - function to be tested
- * @dest: memory area where copied
- * @src: memory area where stored
+ * @dest: memory where is stored
+ * @src: memory where is copied
  * @n: number of bytes
  *
  * Return: copied memory with n byte changed
